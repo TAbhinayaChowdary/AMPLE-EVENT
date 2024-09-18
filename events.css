@@ -66,6 +66,12 @@ h1{
     border-radius: 25px;
     cursor: pointer;
 }
+
+button:hover{
+    background: #0056b3;
+    color: white;
+    border: 1px solid black;
+}
   
 .dark .flexcards {
     margin-top: 50px;
